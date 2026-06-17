@@ -38,3 +38,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Build an Image Gallery with Next.js ~ Net Ninja
 Claude API Crash Course #1 - Introduction & Setup ~ Net Ninja
 create project with npx create-next-app@latest
+#  Claude API Tutorial for Beginners (Node.js + Vision)
+#  How to Get Started with Claude AI API using NodeJS console app w/ Typescript
+# Claude's Model Context Protocol is here... Let's test it
+# Build a Chatbot with Node.js and Claude API — Complete Tutorial
+# Next.js 13 Crash Course Tutorial #12 - Building the App
