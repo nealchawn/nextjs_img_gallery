@@ -19,14 +19,12 @@ export default async function Gallery() {
 
 
   return (
-    <section>
-      <ul>
+    <section className="px-2 my-3 grid gap-2 grid-cols-gallery">
         {
           images.photos.map(photo => (
-            <li key={photo.id}>{photo.src.large}</li>
+            <div key={photo.id} className="h-64 bg-gray-200 rounded-xl"></div>
           ))
         }
-      </ul>
     </section>
   )
 }
