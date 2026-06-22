@@ -14,7 +14,6 @@ export default async function Gallery() {
   // console.log(images)
 
   // Emmet Abbreviation: h2
-  // if (!images) return h2.m-4.text-2xl.font-bold, tab
   if (!images) return <h2 className="m-4 text-2xl font-bold">No images Found</h2>
 
 
